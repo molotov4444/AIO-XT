@@ -5,7 +5,7 @@ cls
 :: ===============================
 :: 1. Set your Google Drive File ID
 :: ===============================
-set "FILEID=1yZY7r2HUljhmuVS4WnuQvdyOdSFYYxlX"
+set "FILEID="
 set "ZIPFILE=AIO.zip"
 set "EXTRACT_DIR=AIO"
 set "DESKTOP=%USERPROFILE%\Desktop"
@@ -85,3 +85,4 @@ echo   ALL INSTALLERS STARTED
 echo ===========================================
 pause
 exit
+
